@@ -111,13 +111,7 @@
 ![Preview](https://github.com/ComandPromt/Material-Design-Button-And-TextField/raw/master/preview_2.gif)
 
 [Project](https://github.com/ComandPromt/Material-Design-Button-And-TextField)
-  
-## CheckBox
-
-![Preview](https://github.com/ComandPromt/CheckBox-UI-Design/raw/master/preview.gif)
-
-[Project](https://github.com/ComandPromt/CheckBox-UI-Design)
-  
+    
 # Panels
 
 ![Preview](https://github.com/ComandPromt/Panel-Slider/raw/master/preview.gif)
@@ -134,11 +128,15 @@
 
 [Project](https://github.com/ComandPromt/Toogle-Menu)
   
-# Login
+# Simple Login
+
+![Preview](https://github.com/ComandPromt/Login-Recuperacion/raw/master/1.png)
 
 [Project](https://github.com/ComandPromt/Login-Recuperacion)
   
-# Screen
+# Screens
+
+## Splash Screen
 
 ![Preview](https://github.com/ComandPromt/Splash-Screen/raw/master/preview.png)
 
