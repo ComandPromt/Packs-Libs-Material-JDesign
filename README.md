@@ -76,7 +76,7 @@
 
 [Project](https://github.com/ComandPromt/Image-Animations-Java)
 
-[Project](https://github.com/ComandPromt/Random-Animated-Images-Segue-)
+[Random Effect Proyect](https://github.com/ComandPromt/Random-Animated-Images-Segue-)
   
 # Text Animation
 
