@@ -126,7 +126,7 @@
 
 [Project](https://github.com/ComandPromt/Sliding-Menu)
 
-![Preview](https://github.com/ComandPromt/Toogle-Menu/raw/master/1.png)
+![Preview](https://github.com/ComandPromt/Toogle-Menu/raw/master/preview.gif)
 
 [Project](https://github.com/ComandPromt/Toogle-Menu)
   
