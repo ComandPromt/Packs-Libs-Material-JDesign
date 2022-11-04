@@ -4,7 +4,9 @@
 
 ![Preview](https://github.com/ComandPromt/Pack-Material-Design/raw/main/previews/preview.png)
 
-[Project](https://github.com/ComandPromt/Pack-Material-Design)
+[Lib](https://github.com/ComandPromt/LibMaterialDesign)
+
+[Demo](https://github.com/ComandPromt/Pack-Material-Design)
   
 ## Date Clock 
 
