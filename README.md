@@ -42,29 +42,41 @@
 
 ## Date Clock 
 
+[Project](https://github.com/ComandPromt/LibSimpleClockPanel)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockFace.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockFace2.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockPanel.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/DayText.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/DiaAgenda.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/FechaDia.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/MaterialDate.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ModernClock.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleClock.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDate.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDateText.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDigitalClock.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/TextClock.png)
+
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/TextDate.png)
+
 ![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/1.gif)
 
 ![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/2.gif)
 
-[Project](https://github.com/ComandPromt/LibSimpleClockPanel)
-
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockFace.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockFace2.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockPanel.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/DayText.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/DiaAgenda.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/FechaDia.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/MaterialDate.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ModernClock.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleClock.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDate.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDateText.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDigitalClock.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/TextClock.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/TextDate.png
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/1.gif
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/2.gif
-https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/3.gif
+![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/3.gif)
 
 ## Colour Picker 
 
@@ -221,3 +233,5 @@ https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/3.gif
 # JMaterial Calendar Lib
 
 [JMaterial Calendar Lib](https://github.com/ComandPromt/Lib_Material_Calendar)
+
+![Preview](https://github.com/ComandPromt/Lib_Material_Calendar/raw/main/preview/preview.gif)
