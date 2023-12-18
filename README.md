@@ -1,6 +1,6 @@
 # Packs Libs Material JDesign
 
-## Pack components
+## JMaterial Lib
 
 ![Preview](https://github.com/ComandPromt/Pack-Material-Design/raw/main/previews/1.png)
 
@@ -47,7 +47,25 @@
 ![Preview](https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/2.gif)
 
 [Project](https://github.com/ComandPromt/LibSimpleClockPanel)
-  
+
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockFace.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockFace2.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ClockPanel.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/DayText.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/DiaAgenda.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/FechaDia.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/MaterialDate.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/ModernClock.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleClock.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDate.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDateText.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/SimpleDigitalClock.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/TextClock.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/TextDate.png
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/1.gif
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/2.gif
+https://github.com/ComandPromt/LibSimpleClockPanel/raw/main/previews/3.gif
+
 ## Colour Picker 
 
 ![Preview](https://github.com/ComandPromt/LibColourPickerWithDesktopColorSelector/raw/main/previews/1.png)
@@ -55,7 +73,9 @@
 ![Preview](https://github.com/ComandPromt/LibColourPickerWithDesktopColorSelector/raw/main/previews/2.png)
 
 [Project](https://github.com/ComandPromt/LibColourPickerWithDesktopColorSelector)
-  
+
+[Screen Color Picker Lib](https://github.com/ComandPromt/ScreenColorPickerLib)
+
 ## InfoImageLib
 
 ![Preview](https://github.com/ComandPromt/InfoImageLib/raw/main/preview.png)
@@ -177,3 +197,27 @@
 ![Preview](https://github.com/ComandPromt/Splash-Screen/raw/master/preview.png)
 
 [Project](https://github.com/ComandPromt/Splash-Screen)
+
+# Multimedia
+
+## JFfmpeg
+
+[JFfmpeg](https://github.com/ComandPromt/Jffmpeg)
+
+## JThumbnail Miniatures
+
+[Lib](https://github.com/ComandPromt/JThumbnailMiniatures)
+
+# Métodos
+
+[JMthos](https://github.com/ComandPromt/JMthos)
+
+[Read File](https://github.com/ComandPromt/Read-File)
+
+# Translate
+
+[Translate Lib](https://github.com/ComandPromt/JEasyTranslateLib)
+
+# JMaterial Calendar Lib
+
+[JMaterial Calendar Lib](https://github.com/ComandPromt/Lib_Material_Calendar)
