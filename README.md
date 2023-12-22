@@ -38,6 +38,10 @@
 
 ![Preview](https://github.com/ComandPromt/JMenu/blob/main/previews/1.gif)
 
+![Preview](https://github.com/ComandPromt/JMenu/blob/main/previews/2.gif)
+
+![Preview](https://github.com/ComandPromt/JMenu/blob/main/previews/3.gif)
+
 [Lib](https://github.com/ComandPromt/JMenu)
 
 ## Date Clock 
